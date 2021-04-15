@@ -1,0 +1,596 @@
+uni_number,state,park,parkcode2,category,address,zipcode,phone,parkCode,acres
+1,alabama,Birmingham Civil Rights,bicr,National Monument,"Birmingham, AL",35203,205-568-3963,BICR,532619
+2,alabama,Freedom Riders,frri,National Monument,"Anniston, AL",36202,(256) 237-3536,FRRI,2774864
+3,alabama,Horseshoe Bend,hobe,National Military Park,"Daviston, AL",36256,(256) 234-7111,HOBE,918155
+4,alabama,Little River Canyon,liri,National Preserve,"Fort Payne, AL",35967,(256) 845-9605,LIRI,724999
+5,alabama,Natchez Trace,natr,Parkway,"Tupelo, MS",38804,(800) 305-7417,NATR,1252093
+6,alabama,Natchez Trace,natt,National Scenic Trail,"Tupelo, MS",38804,18003057417,NATT,300814
+7,alabama,Russell Cave,ruca,National Monument,"Bridgeport, AL",35740,(256) 495-2672,RUCA,2971009
+8,alabama,Selma To Montgomery,semo,National Historic Trail,"Hayneville, AL",36040,(334) 877-1983,SEMO,459765
+9,alabama,Trail Of Tears,trte,National Historic Trail,"Santa Fe, NM",87505,(505) 988-6098,TRTE,397325
+10,alabama,Tuskegee Airmen,tuai,National Historic Site,"Tuskegee, AL",36083,(334) 724-0922,TUAI,2824405
+11,alabama,Tuskegee Institute,tuin,National Historic Site,"Tuskegee Institute, AL",36088,(334) 727-3200,TUIN,1588207
+12,alaska,Alagnak,alag,Wild River,"King Salmon, AK",99613,(907) 246-3305,ALAG,2073676
+13,alaska,Alaska Public Lands,anch,,"Anchorage, AK",99501,(907) 644-3661,ANCH,1912204
+14,alaska,Aleutian Islands World War II,aleu,National Historic Area,"Anchorage, AK",99501,(907) 644-3472,ALEU,2027495
+15,alaska,Aniakchak,ania,National Monument & Preserve,"KIng Salmon, AK",99613,(907) 246-3305,ANIA,1137627
+16,alaska,Bering Land Bridge,bela,National Preserve,"Nome, AK",99762,(800) 471-2352,BELA,1799077
+17,alaska,Cape Krusenstern,cakr,National Monument,"Kotzebue, AK",99752,(907) 442-3890,CAKR,287154
+18,alaska,Denali,dena,National Park & Preserve,"Denali Park, AK",99755,(907) 683-9532,DENA,917334
+19,alaska,Gates Of The Arctic,gaar,National Park & Preserve,"Fairbanks, AK",99701,907-459-3730,GAAR,827926
+20,alaska,Glacier Bay,glba,National Park & Preserve,"Gustavus, AK",99826,(907) 697-2230,GLBA,580166
+21,alaska,Iñupiat Heritage Center,inup,,"Barrow, AK",99723,(907) 852-0422,INUP,2515585
+22,alaska,Katmai,katm,National Park & Preserve,"King Salmon, AK",99613,(907) 246-3305,KATM,1540025
+23,alaska,Kenai Fjords,kefj,National Park,"Seward, AK",99664,(907) 422-0500,KEFJ,276942
+24,alaska,Klondike Gold Rush,klgo,National Historical Park,"Skagway, AK",99840,(907) 983-9200,KLGO,2578480
+25,alaska,Kobuk Valley,kova,National Park,"Kotzebue, AK",99752,(907) 442-3890,KOVA,611052
+26,alaska,Lake Clark,lacl,National Park & Preserve,"Port Alsworth, AK",99653,(907) 781-2218,LACL,2291544
+27,alaska,Noatak,noat,National Preserve,"Kotzebue, AK",99752,(907) 442-3890,NOAT,265408
+28,alaska,Sitka,sitk,National Historical Park,"Sitka, AK",99835,(907) 747-0110,SITK,1894472
+29,alaska,Wrangell - St Elias,wrst,National Park & Preserve,"Copper Center, AK",99573,(907) 822-5234,WRST,2169026
+30,alaska,Yukon - Charley Rivers,yuch,National Preserve,"Fairbanks, AK",99701,907-459-3730,YUCH,2200490
+31,american samoa,National Park of American Samoa,npsa,,"Pago Pago, AS",96799,(684) 633-7082,NPSA,1685859
+32,arizona,Canyon de Chelly,cach,National Monument,"Chinle, AZ",86503,(928) 674-5500,CACH,377910
+33,arizona,Casa Grande Ruins,cagr,National Monument,"Coolidge, AZ",85128,(520) 723-3172,CAGR,726683
+34,arizona,Chiricahua,chir,National Monument,"Willcox, AZ",85643,(520) 824-3560,CHIR,1293937
+35,arizona,Coronado,coro,National Memorial,"Hereford, AZ",85615,(520) 366-5515,CORO,1176775
+36,arizona,Fort Bowie,fobo,National Historic Site,"Bowie, AZ",85605,520-847-2500,FOBO,1478725
+37,arizona,Glen Canyon,glca,National Recreation Area,"Page, AZ",86040,(928) 608-6200,GLCA,2730350
+38,arizona,Grand Canyon,grca,National Park,"Grand Canyon, AZ",86023,928-638-7888,GRCA,2399548
+39,arizona,Grand Canyon-Parashant,para,National Monument,"St. George, UT",84790,(435) 688-3200,PARA,884987
+40,arizona,Hubbell Trading Post,hutr,National Historic Site,"Ganado, AZ",86505-0150,(928) 755-3475,HUTR,2074601
+41,arizona,Juan Bautista de Anza,juba,National Historic Trail,"Richmond, CA",94804,(510) 232-5050,JUBA,1251551
+42,arizona,Lake Mead,lake,National Recreation Area,"Boulder City, NV",89005,(702) 293-8990,LAKE,1157670
+43,arizona,Montezuma Castle,moca,National Monument,"Camp Verde, AZ",86322,(928) 567-3322,MOCA,2852522
+44,arizona,Navajo,nava,National Monument,"Shonto, AZ",86045,(928) 672-2700,NAVA,1764344
+45,arizona,Old Spanish,olsp,National Historic Trail,"Santa Fe, NM",87505,(505) 988-6098,OLSP,1396729
+46,arizona,Organ Pipe Cactus,orpi,National Monument,"Ajo, AZ",85321,(520) 387-6849,ORPI,2128342
+47,arizona,Petrified Forest,pefo,National Park,"Petrified Forest, AZ",86028,(928) 524-6228,PEFO,2509197
+48,arizona,Pipe Spring,pisp,National Monument,"Fredonia, AZ",86022,(928) 643-7105,PISP,1902698
+49,arizona,Saguaro,sagu,National Park,"Tucson, AZ",85730,(520) 733-5153,SAGU,2691373
+50,arizona,Sunset Crater Volcano,sucr,National Monument,"Flagstaff, AZ",86004,(928) 526-0502,SUCR,1093773
+51,arizona,Tonto,tont,National Monument,"Roosevelt, AZ",85545,(928) 467-2241,TONT,732962
+52,arizona,Tumacácori,tuma,National Historical Park,"Tumacacori, AZ",85640,(520) 377-5060,TUMA,178916
+53,arizona,Tuzigoot,tuzi,National Monument,"Camp Verde, AZ",86322,(928) 634-5564,TUZI,968894
+54,arizona,Walnut Canyon,waca,National Monument,"Flagstaff, AZ",86004,(928) 526-3367,WACA,2718154
+55,arizona,Wupatki,wupa,National Monument,"Flagstaff, AZ",86004,9286792365 or 9288561705,WUPA,1435968
+56,arkansas,Arkansas Post,arpo,National Memorial,"Gillett, AR",72055,(870) 548-2207,ARPO,2311268
+57,arkansas,Buffalo,buff,National River,"Harrison, AR",72601,(870) 439-2502,BUFF,438108
+58,arkansas,Fort Smith,fosm,National Historic Site,"Fort Smith, AR",72901,(479) 783-3961,FOSM,2363520
+59,arkansas,Hot Springs,hosp,National Park,"Hot Springs, AR",71901,(501) 620-6715,HOSP,2071415
+60,arkansas,Little Rock Central High School,chsc,National Historic Site,"Little Rock, AR",72202-5212,501.374.1957,CHSC,1921274
+61,arkansas,Pea Ridge,peri,National Military Park,"Garfield, AR",72732,479-451-8122,PERI,2185417
+62,arkansas,President William Jefferson Clinton Birthplace Home,wicl,National Historic Site,"Hope, AR",71801,(870) 777-4455,WICL,1575672
+63,arkansas,Trail Of Tears,trte,National Historic Trail,"Santa Fe, NM",87505,(505) 988-6098,TRTE,483122
+64,california,Alcatraz Island,alca,,"San Francisco, CA",94123,(415) 561-4900,ALCA,1125646
+65,california,Cabrillo,cabr,National Monument,"San Diego, CA",92106,(619) 523-4285,CABR,905246
+66,california,California,cali,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,CALI,261815
+67,california,Castle Mountains,camo,National Monument,"Barstow, CA",92311,(760) 252-6100,CAMO,423080
+68,california,César E. Chávez,cech,National Monument,"Keene, CA",93531,(661) 823-6134,CECH,1961503
+69,california,Channel Islands,chis,National Park,"Ventura, CA",93001,(805) 658-5730,CHIS,272697
+70,california,Death Valley,deva,National Park,"Ventura, CA",93001,(760) 786-3200,DEVA,564204
+71,california,Devils Postpile,depo,National Monument,"Mammoth Lakes, CA",93546,(760) 934-2289,DEPO,873797
+72,california,Eugene O'Neill,euon,National Historic Site,"Danville, CA",94526,925-228-8860,EUON,1222101
+73,california,Fort Point,fopo,National Historic Site,"San Francisco, CA",94123,(415) 561-4959,FOPO,999914
+74,california,Golden Gate,goga,National Recreation Area,"San Francisco, CA",94123-0022,(415) 561-4700,GOGA,2726310
+75,california,John Muir,jomu,National Historic Site,"Martinez, CA",94553,(925) 228-8860,JOMU,1061253
+76,california,Joshua Tree,jotr,National Park,"Twentynine Palms, CA",92277-3597,(760) 367-5500,JOTR,1213825
+77,california,Juan Bautista de Anza,juba,National Historic Trail,"Richmond, CA",94804,(510) 232-5050,JUBA,2635373
+78,california,Lassen Volcanic,lavo,National Park,"Mineral, CA",96063,(530) 595-4480,LAVO,1043632
+79,california,Lava Beds,labe,National Monument,"Tulelake, CA",96134,(530) 667-8113,LABE,2573375
+80,california,Manzanar,manz,National Historic Site,"Independence, CA",93526,(760)878-2194,MANZ,1003383
+81,california,Mojave,moja,National Preserve,"Barstow, CA",92311,(760) 252-6100,MOJA,1143751
+82,california,Muir Woods,muwo,National Monument,"Mill Valley, CA",94941,(415) 561-2850,MUWO,645335
+83,california,Old Spanish,olsp,National Historic Trail,"Santa Fe, NM",87505,(505) 988-6098,OLSP,2500651
+84,california,Pinnacles,pinn,National Park,"Paicines, CA",95043,(831) 389-4486,PINN,2469679
+85,california,Point Reyes,pore,National Seashore,"Point Reyes Station, CA",94956,415-464-5100,PORE,1851356
+86,california,Pony Express,poex,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,POEX,1487992
+87,california,Port Chicago Naval Magazine,poch,National Memorial,"Martinez, CA",94553,(925) 228-8860,POCH,459820
+88,california,Presidio of San Francisco,prsf,,"San Francisco, CA",94123,(415) 561-4323,PRSF,672194
+89,california,Redwood,redw,National and State Parks,"Crescent City, CA",95531,(707) 464-6101,REDW,1978836
+90,california,Rosie the Riveter WWII Home Front,rori,National Historical Park,"Richmond, CA",94804,(510) 232-5050,RORI,307739
+91,california,San Francisco Maritime,safr,National Historical Park,"San Francisco, CA",94123,(415) 561-7000,SAFR,1674215
+92,california,Santa Monica Mountains,samo,National Recreation Area,"Calabasas, CA",91302,(805) 370-2301,SAMO,2190827
+93,california,Sequoia & Kings Canyon,seki,National Parks,"Three Rivers, CA",93271,(559) 565-3341,SEKI,2349631
+94,california,Tule Lake,tule,National Monument,"Tulelake, CA",96134,5302600537or5306678113,TULE,2178859
+95,california,Whiskeytown,whis,National Recreation Area,"Whiskeytown, CA",96095,(530) 242-3400,WHIS,1522447
+96,california,Yosemite,yose,National Park,"Whiskeytown, CA",96095,209/372-0200,YOSE,1620338
+97,colorado,Bent's Old Fort,beol,National Historic Site,"La Junta, CO",81050,(719) 383-5010,BEOL,2260189
+98,colorado,Black Canyon Of The Gunnison,blca,National Park,"Gunnison, CO",81230,(970) 641-2337,BLCA,1378329
+99,colorado,California,cali,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,CALI,2891326
+100,colorado,Colorado,colm,National Monument,"Fruita, CO",81521,(970) 858-2800,COLM,307003
+101,colorado,Curecanti,cure,National Recreation Area,"Gunnison, CO",81230,(970) 641-2337,CURE,2747981
+102,colorado,Dinosaur,dino,National Monument,"Dinosaur, CO",81610,(435) 781-7700,DINO,2457361
+103,colorado,Florissant Fossil Beds,flfo,National Monument,"Florissant, CO",80816,(719) 748-3253,FLFO,1918545
+104,colorado,Great Sand Dunes,grsa,National Park & Preserve,"Mosca, CO",81146,(719) 378-6395,GRSA,1323130
+105,colorado,Hovenweep,hove,National Monument,"Cortez, CO",81321,(970) 562-4282,HOVE,1552108
+106,colorado,Mesa Verde,meve,National Park,"Mesa Verde National Park, CO",81330,970-529-4465,MEVE,1704819
+107,colorado,Old Spanish,olsp,National Historic Trail,"Santa Fe, NM",87505,(505) 988-6098,OLSP,2146406
+108,colorado,Pony Express,poex,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,POEX,2642446
+109,colorado,Rocky Mountain,romo,National Park,"Estes Park, CO",80517,(970) 586-1206,ROMO,2268574
+110,colorado,Sand Creek Massacre,sand,National Historic Site,"Eads, CO",81036-0249,(719) 438-5916,SAND,2309818
+111,colorado,Santa Fe,safe,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,SAFE,1575724
+112,colorado,Yucca House,yuho,National Monument,"Mesa Verde, CO",81330,(970) 529-4465,YUHO,2346370
+113,connecticut,Appalachian,appa,National Scenic Trail,"Harpers Ferry, WV",25425,(304) 535-6278,APPA,1812737
+114,connecticut,Coltsville,colt,National Historical Park,"Springfield, MA",1105,(860) 500-6078,COLT,934914
+115,connecticut,New England,neen,National Scenic Trail,"Springfield, MA",1105,413-351-8182,NEEN,2007725
+116,connecticut,Washington-Rochambeau Revolutionary Route,waro,National Historic Trail,"King of Prussia, PA",19406,610-783-1006,WARO,1517946
+117,connecticut,Weir Farm,wefa,National Historical Park,"Wilton, CT",6897,(203) 834-1896,WEFA,278127
+118,delaware,Captain John Smith Chesapeake,cajo,National Historic Trail,"Yorktown, VA",23690,(757) 898-3400,CAJO,2205311
+119,delaware,Chesapeake Bay,cbpo,,"Annapolis, MD",21403,(410) 260-2470,CBPO,920466
+120,delaware,First State,frst,National Historical Park,"New Castle, DE",19720,(302) 544-6363,FRST,2696177
+121,delaware,Washington-Rochambeau Revolutionary Route,waro,National Historic Trail,"King of Prussia, PA",19406,610-783-1006,WARO,2587887
+122,florida,Big Cypress,bicy,National Preserve,"Ochopee, FL",34141,(239) 695-2000,BICY,756472
+123,florida,Biscayne,bisc,National Park,"Homestead, FL",33033,(305) 230-1144,BISC,636177
+124,florida,Canaveral,cana,National Seashore,"Titusville, FL",32796,(321) 267-1110,CANA,1824574
+125,florida,Castillo de San Marcos,casa,National Monument,"Saint Augustine, FL",32084,(904) 829-6506,CASA,156366
+126,florida,De Soto,deso,National Memorial,"Bradenton, FL",34209,(941) 792-0458,DESO,2137302
+127,florida,Dry Tortugas,drto,National Park,"Homestead, FL",33034,(305) 242-7700,DRTO,925953
+128,florida,Everglades,ever,National Park,"Homestead, FL",33034,(305) 242-7700,EVER,558108
+129,florida,Timucuan,foca,Ecological & Historic Preserve,"Jacksonville, FL",32225,904-641-7155,FOCA,1644895
+130,florida,Fort Matanzas,foma,National Monument,"Saint Augustine, FL",32080,(904) 471-0116,FOMA,1031685
+131,florida,Gulf Islands,guis,National Seashore,"Gulf Breeze, FL",32563,(850) 934-2600,GUIS,1159478
+132,florida,Timucuan,timu,Ecological & Historic Preserve,"Jacksonville, FL",32225,904-641-7155,TIMU,2063027
+133,georgia,Andersonville,ande,National Historic Site,"Andersonville, GA",31711,(229) 924-0343,ANDE,525369
+134,georgia,Appalachian,appa,National Scenic Trail,"Harpers Ferry, WV",25425,(304) 535-6278,APPA,1841778
+135,georgia,Chattahoochee River,chat,National Recreation Area,"Sandy Springs, GA",30350,678-538-1200,CHAT,2233562
+136,georgia,Chickamauga & Chattanooga,chch,National Military Park,"Fort Oglethorpe, GA",30742,706-866-9241,CHCH,2839467
+137,georgia,Cumberland Island,cuis,National Seashore,"St. Marys, GA",31558,(912) 882-4336,CUIS,1080455
+138,georgia,Fort Frederica,fofr,National Monument,"St. Simons Island, GA",31522,(912) 638-3639,FOFR,168818
+139,georgia,Fort Pulaski,fopu,National Monument,"Savannah, GA",31410,(912) 786-5787,FOPU,2006207
+140,georgia,Jimmy Carter,jica,National Historical Park,"Plains, GA",31780,(229) 824 - 4104,JICA,957036
+141,georgia,Kennesaw Mountain,kemo,National Battlefield Park,"Kennesaw, GA",30152,770-427-4686,KEMO,326905
+142,georgia,"Martin Luther King, Jr.",malu,National Historical Park,"Atlanta, GA",30312,(404) 331-5190,MALU,1812392
+143,georgia,Ocmulgee Mounds,ocmu,National Historical Park,"Macon, GA",31217,(478) 752-8257,OCMU,1774243
+144,georgia,Trail Of Tears,trte,National Historic Trail,"Santa Fe, NM",87505,(505) 988-6098,TRTE,2556962
+145,guam,War In The Pacific,wapa,National Historical Park,"Hagatna, GU",96910,(671) 477-7278,WAPA,2545217
+146,hawaii,Ala Kahakai,alka,National Historic Trail,"Kailua-Kona, HI",96740,(808) 326-6012,ALKA,2624822
+147,hawaii,Haleakal_,hale,National Park,"Makawao, HI",96768,(808) 572-4400,HALE,2849473
+148,hawaii,Hawai'i Volcanoes,havo,National Park,"Hawaii National Park, HI",96718,(808) 985-6011,HAVO,2586221
+149,hawaii,Honouliuli,hono,National Historic Site,"Honolulu, HI",96818,(808) 725-6149,HONO,1349858
+150,hawaii,Kalaupapa,kala,National Historical Park,"Honolulu, HI",96818,(808) 567-6802,KALA,2305396
+151,hawaii,Kaloko-Honok_hau,kaho,National Historical Park,"Kailua-Kona, HI",96740,(808) 329-6881,KAHO,561005
+152,hawaii,Pearl Harbor,valr,National Memorial,"Honolulu, HI",96818,(808) 422-3399,VALR,2899182
+153,hawaii,Pu`ukohol_ Heiau,puhe,National Historic Site,"Kawaihae, HI",96743,(808) 882-7218,PUHE,1275385
+154,hawaii,Puʻuhonua o H_naunau,puho,National Historical Park,"H_naunau, HI",96726,(808) 328-2326,PUHO,940404
+155,idaho,California,cali,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,CALI,624976
+156,idaho,City Of Rocks,ciro,National Reserve,"Almo, ID",83312,208-824-5901,CIRO,1482443
+157,idaho,Craters Of The Moon,crmo,National Monument & Preserve,"Arco, ID",83213,(208) 527-1300,CRMO,2537961
+158,idaho,Hagerman Fossil Beds,hafo,National Monument,"Hagerman, ID",83332,(208) 933-4105,HAFO,782970
+159,idaho,Ice Age Floods,iafl,National Geologic Trail,"Coulee Dam, WA",99116,(509) 237-9722,IAFL,340823
+160,idaho,Lewis & Clark,lecl,National Historic Trail,"Omaha, NE",68102,(402) 661-1804,LECL,1965107
+161,idaho,Minidoka,miin,National Historic Site,"Hagerman, ID",83332,208-825-4169,MIIN,278723
+162,idaho,Nez Perce,nepe,National Historical Park,"Lapwai, ID",83540-9715,(208) 843-7001,NEPE,706687
+163,idaho,Oregon,oreg,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,OREG,2763743
+164,idaho,Yellowstone,yell,National Park,"Yellowstone National Park, WY",82190-0168,307-344-7381,YELL,876755
+165,illinois,Lewis & Clark,lecl,National Historic Trail,"Omaha, NE",68102,(402) 661-1804,LECL,1957001
+166,illinois,Lincoln Home,liho,National Historic Site,"Springfield, IL",62701,(217) 492-4241,LIHO,2411723
+167,illinois,Mormon Pioneer,mopi,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,MOPI,1977159
+168,illinois,Pullman,pull,National Monument,"Chicago, IL",60628,773-468-9310,PULL,895734
+169,illinois,Trail Of Tears,trte,National Historic Trail,"Santa Fe, NM",87505,(505) 988-6098,TRTE,1006438
+170,indiana,George Rogers Clark,gero,National Historical Park,"Vincennes, IN",47591,(812) 882-1776,GERO,2522204
+171,indiana,Indiana Dunes,indu,National Park,"Porter, IN",46304,(219) 395-1882,INDU,1103291
+172,indiana,Lewis & Clark,lecl,National Historic Trail,"Omaha, NE",68102,(402) 661-1804,LECL,1195445
+173,indiana,Lincoln Boyhood,libo,National Memorial,"Lincoln City, IN",47552,(812) 937-4541,LIBO,758635
+174,iowa,Effigy Mounds,efmo,National Monument,"Harpers Ferry, IA",52146,(563) 873-3491,EFMO,2465455
+175,iowa,Herbert Hoover,heho,National Historic Site,"West Branch, IA",52358,(319) 643-2541,HEHO,2824519
+176,iowa,Lewis & Clark,lecl,National Historic Trail,"Omaha, NE",68102,(402) 661-1804,LECL,375178
+177,iowa,Mormon Pioneer,mopi,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,MOPI,675473
+178,kansas,Brown v. Board of Education,brvb,National Historic Site,"Topeka, KS",66612-1143,(785) 354-4273,BRVB,1924953
+179,kansas,California,cali,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,CALI,297213
+180,kansas,Fort Larned,fols,National Historic Site,"Larned, KS",67550,620-285-6911,FOLS,1808957
+181,kansas,Fort Scott,fosc,National Historic Site,"Fort Scott, KS",66701,(620) 223-0310,FOSC,447987
+182,kansas,Lewis & Clark,lecl,National Historic Trail,"Omaha, NE",68102,(402) 661-1804,LECL,1101257
+183,kansas,Nicodemus,nico,National Historic Site,"Nicodemus, KS",67625-3015,(785) 839-4233,NICO,283762
+184,kansas,Oregon,oreg,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,OREG,1226886
+185,kansas,Pony Express,poex,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,POEX,2238072
+186,kansas,Santa Fe,safe,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,SAFE,719233
+187,kansas,Tallgrass Prairie,tapr,National Preserve,"Strong City, KS",66869,(620) 273-8494,TAPR,1818316
+188,kentucky,Abraham Lincoln Birthplace,abli,National Historical Park,"Hodgenville, KY",42748,(270) 358-3137,ABLI,2493051
+189,kentucky,Big South Fork,biso,National River & Recreation Area,"Oneida, TN",37841,(423) 569-9778,BISO,761530
+190,kentucky,Camp Nelson,cane,National Monument,"Nicholasville, KY",40356,(859) 881-5716,CANE,1340458
+191,kentucky,Cumberland Gap,cuga,National Historical Park,"Middlesboro, KY",40965,(606) 248-2817,CUGA,481423
+192,kentucky,Fort Donelson,fodo,National Battlefield,"Dover, TN",37058,931-232-5706,FODO,2555097
+193,kentucky,Lewis & Clark,lecl,National Historic Trail,"Omaha, NE",68102,(402) 661-1804,LECL,1279840
+194,kentucky,Mammoth Cave,maca,National Park,"Omaha, NE",68102,(270) 758-2180,MACA,204238
+195,kentucky,Mill Springs Battlefield,misp,National Monument,"Nancy, KY",42544,606-636-4045,MISP,1864548
+196,kentucky,Trail Of Tears,trte,National Historic Trail,"Santa Fe, NM",87505,(505) 988-6098,TRTE,1496878
+197,louisiana,Cane River Creole,cari,National Historical Park,"Natchitoches, LA",71458,318-352-0383,CARI,1510423
+198,louisiana,El Camino Real de los Tejas,elte,National Historic Trail,"Santa Fe, NM",87505,(505) 988-6098,ELTE,2209120
+199,louisiana,Jean Lafitte,jela,National Historical Park and Preserve,"New Orleans, LA",70130,(504) 589-3882,JELA,1759385
+200,louisiana,New Orleans Jazz,jazz,National Historical Park,"New Orleans, LA",70116,(504) 589-4841,JAZZ,320385
+201,louisiana,Poverty Point,popo,National Monument,"Pioneer, LA",71266,(318) 926-5492,POPO,2351745
+202,louisiana,Vicksburg,vick,National Military Park,"Vicksburg, MS",39183,(601) 636-0583,VICK,435936
+203,maine,Acadia,acad,National Park,"Bar Harbor, ME",4609,(207) 288-3338,ACAD,1461251
+204,maine,Appalachian,appa,National Scenic Trail,"Harpers Ferry, WV",25425,(304) 535-6278,APPA,792832
+205,maine,Katahdin Woods and Waters,kaww,National Monument,"Patten, ME",4765,207-456-6001,KAWW,1833014
+206,maine,Maine Acadian Culture,maac,,"Patten, ME",4765,(207) 728-6826,MAAC,884791
+207,maine,Roosevelt Campobello,roca,International Park,"Patten, ME",4765,(506) 752-2922,ROCA,1917134
+208,maine,Saint Croix Island,sacr,International Historic Site,"Calais, ME",4619,(207) 454-3871,SACR,2267210
+209,maryland,Antietam,anti,National Battlefield,"Sharpsburg, MD",21782,(301) 432-5124,ANTI,287221
+210,maryland,Appalachian,appa,National Scenic Trail,"Harpers Ferry, WV",25425,(304) 535-6278,APPA,1204379
+211,maryland,Assateague Island,asis,National Seashore,"Berlin, MD",21811,(410) 641-1441,ASIS,2901359
+212,maryland,Baltimore-Washington,bawa,Parkway,"Greenbelt, MD",20770,(301) 344-3948,BAWA,593461
+213,maryland,Captain John Smith Chesapeake,cajo,National Historic Trail,"Yorktown, VA",23690,(757) 898-3400,CAJO,793283
+214,maryland,Catoctin Mountain,cato,Park,"Thurmont, MD",21788,(301) 663-9388,CATO,1150496
+215,maryland,Chesapeake & Ohio Canal,choh,National Historical Park,"Hagerstown, MD",21740,301-739-4200,CHOH,1997463
+216,maryland,Chesapeake Bay,cbpo,,"Annapolis, MD",21403,(410) 260-2470,CBPO,2289969
+217,maryland,Civil War Defenses of Washington,cwdw,,"Washington, DC",20008,202-829-2163,CWDW,1839612
+218,maryland,Clara Barton,clba,National Historic Site,"McLean, VA",22101,(301) 320-1400,CLBA,1641174
+219,maryland,Fort Foote,fofo,Park,"Fort Washington, MD",20744,(301) 763-4600,FOFO,2359314
+220,maryland,Fort McHenry,fomc,National Monument and Historic Shrine,"Baltimore, MD",21230,(410) 962-4290,FOMC,122389
+221,maryland,Fort Washington,fowa,Park,"Fort Washington, MD",20744,(301) 763-4600,FOWA,2279283
+222,maryland,George Washington,gwmp,Memorial Parkway,"McLean, VA",22101,(703) 289-2500,GWMP,2077932
+223,maryland,Glen Echo,glec,Park,"Glen Echo, MD",20812,(301) 320-1400,GLEC,1945955
+224,maryland,Greenbelt,gree,Park,"Greenbelt, MD",20770,(301) 344-3948,GREE,806365
+225,maryland,Hampton,hamp,National Historic Site,"Towson, MD",21286,410.823.1309,HAMP,2382152
+226,maryland,Harmony Hall,haha,,"Fort Washington, MD",20744,(301) 763-4600,HAHA,2148566
+227,maryland,Harpers Ferry,hafe,National Historical Park,"Harpers Ferry, WV",25425,(304) 535-6029,HAFE,1259531
+228,maryland,Harriet Tubman Underground Railroad,hatu,National Historical Park,"Church Creek, MD",21622,410-221-2290,HATU,2863662
+229,maryland,Monocacy,mono,National Battlefield,"Frederick, MD",21704,(301) 662-3515,MONO,525968
+230,maryland,Oxon Cove  Park & Oxon Hill Farm,oxhi,,"Oxon Hill, MD",20745,(301) 839-1176,OXHI,2278302
+231,maryland,Piscataway,pisc,Park,"Fort Washington, MD",20616,301-763-4600,PISC,1343696
+232,maryland,Potomac Heritage,pohe,National Scenic Trail,"Washington, DC",20242,202-619-7154,POHE,1424317
+233,maryland,Star-Spangled Banner,stsp,National Historic Trail,"Baltimore, MD",21230,410.962.4290,STSP,2004867
+234,maryland,Thomas Stone,thst,National Historic Site,"Port Tobacco, MD",20677,804-224-1732,THST,1950327
+235,maryland,Washington-Rochambeau Revolutionary Route,waro,National Historic Trail,"King of Prussia, PA",19406,610-783-1006,WARO,1843750
+236,massachusetts,Adams,adam,National Historical Park,"Quincy, MA",2169,617-770-1175,ADAM,997756
+237,massachusetts,Appalachian,appa,National Scenic Trail,"Harpers Ferry, WV",25425,(304) 535-6278,APPA,2393227
+238,massachusetts,Blackstone River Valley,blrv,National Historical Park,"Providence, RI",2903,401-521-7266,BLRV,1620552
+239,massachusetts,Boston,bost,National Historical Park,"Charlestown, MA",2129,(617) 242-5601,BOST,2653841
+240,massachusetts,Boston African American,boaf,National Historic Site,"Boston, MA",2109,(617) 742-5415,BOAF,2856298
+241,massachusetts,Boston Harbor Islands,boha,National Recreation Area,"Boston, MA",2109,(617) 223-8666,BOHA,2257596
+242,massachusetts,Cape Cod,caco,National Seashore,"Wellfleet, MA",2667,(508) 255-3421,CACO,1341596
+243,massachusetts,Frederick Law Olmsted,frla,National Historic Site,"Brookline, MA",2445,(617) 566-1689,FRLA,1348928
+244,massachusetts,John Fitzgerald Kennedy,jofi,National Historic Site,"Brookline, MA",2446,(617) 566-7937,JOFI,1581028
+245,massachusetts,Longfellow House Washington's Headquarters,long,National Historic Site,"Cambridge, MA",2138,(617) 876-4491,LONG,2448744
+246,massachusetts,Lowell,lowe,National Historical Park,"Lowell, MA",1852,(978) 970-5000,LOWE,2301572
+247,massachusetts,Minute Man,mima,National Historical Park,"Concord, MA",1742,(978) 369-6993,MIMA,1964725
+248,massachusetts,New Bedford Whaling,nebe,National Historical Park,"New Bedford, MA",2740,508-996-4095,NEBE,2817054
+249,massachusetts,New England,neen,National Scenic Trail,"Springfield, MA",1105,413-351-8182,NEEN,1402413
+250,massachusetts,Salem Maritime,sama,National Historic Site,"Salem, MA",1970,978-740-1650,SAMA,774356
+251,massachusetts,Saugus Iron Works,sair,National Historic Site,"Saugus, MA",1906,781-233-0050,SAIR,1329688
+252,massachusetts,Springfield Armory,spar,National Historic Site,"Springfield, MA",1105,(413) 734-8551,SPAR,2885900
+253,massachusetts,Washington-Rochambeau Revolutionary Route,waro,National Historic Trail,"King of Prussia, PA",19406,610-783-1006,WARO,2534114
+254,michigan,Isle Royale,isro,National Park,"Houghton, MI",49931,(906) 482-0984,ISRO,2923134
+255,michigan,Keweenaw,kewe,National Historical Park,"Calumet, MI",49913,(906) 337-3168,KEWE,1450007
+256,michigan,North Country,noco,National Scenic Trail,"Lowell, MI",49331,(616) 319-7906,NOCO,2596439
+257,michigan,Pictured Rocks,piro,National Lakeshore,"Munising, MI",49862,(906) 387-3700,PIRO,2613049
+258,michigan,River Raisin,rira,National Battlefield Park,"Monroe, MI",48162,734 243 7136,RIRA,2090897
+259,michigan,Sleeping Bear Dunes,slbe,National Lakeshore,"Empire, MI",49630,(231) 326-4700,SLBE,1526173
+260,minnesota,Grand Portage,grpo,National Monument,"Grand Portage, MN",55605,(218) 475-0123,GRPO,2877861
+261,minnesota,Mississippi,miss,National River and Recreation Area,"Saint Paul, MN",55101,(651) 293-0200,MISS,1861731
+262,minnesota,North Country,noco,National Scenic Trail,"Lowell, MI",49331,(616) 319-7906,NOCO,1517215
+263,minnesota,Pipestone,pipe,National Monument,"Pipestone, MN",56164,(507) 825-5464,PIPE,1025070
+264,minnesota,Saint Croix,sacn,National Scenic Riverway,"St. Croix Falls, WI",54024,(715) 483-2274,SACN,100096
+265,minnesota,Voyageurs,voya,National Park,"International Falls, MN",56649,(218)-283-6600,VOYA,935979
+266,mississippi,Brices Cross Roads,brcr,National Battlefield Site,"Tupelo, MS",38804,18003057417,BRCR,600640
+267,mississippi,Gulf Islands,guis,National Seashore,"Gulf Breeze, FL",32563,(850) 934-2600,GUIS,1179183
+268,mississippi,Medgar and Myrlie Evers Home,memy,National Monument,"Atlanta, GA",30303,601-345-7211,MEMY,612097
+269,mississippi,Natchez,natc,National Historical Park,"Natchez, MS",39120,(601) 446-5790,NATC,1116283
+270,mississippi,Natchez Trace,natr,Parkway,"Tupelo, MS",38804,(800) 305-7417,NATR,649746
+271,mississippi,Natchez Trace,natt,National Scenic Trail,"Tupelo, MS",38804,18003057417,NATT,2112382
+272,mississippi,Shiloh,shil,National Military Park,"Shiloh, TN",38376,(731) 689-5696,SHIL,2271157
+273,mississippi,Tupelo,tupe,National Battlefield,"Tupelo, MS",38804,18003057417,TUPE,1276179
+274,mississippi,Vicksburg,vick,National Military Park,"Vicksburg, MS",39183,(601) 636-0583,VICK,1168737
+275,missouri,California,cali,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,CALI,2262508
+276,missouri,Gateway Arch,jeff,National Park,"St. Louis, MO",63102,(314) 655-1600,JEFF,2424935
+277,missouri,George Washington Carver,gwca,National Monument,"Diamond, MO",64840,417.325.4151,GWCA,443086
+278,missouri,Harry S Truman,hstr,National Historic Site,"Independence, MO",64050,(816) 254-2720,HSTR,2159272
+279,missouri,Lewis & Clark,lecl,National Historic Trail,"Omaha, NE",68102,(402) 661-1804,LECL,2694771
+280,missouri,Oregon,oreg,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,OREG,1239447
+281,missouri,Ozark,ozar,National Scenic Riverways,"Van Buren, MO",63965,(573) 323-4236,OZAR,2935841
+282,missouri,Pony Express,poex,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,POEX,1281166
+283,missouri,Santa Fe,safe,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,SAFE,935516
+284,missouri,Ste. Geneviève,stge,National Historical Park,"Ste. Genevieve, MO",63670,573-880-7189,STGE,2726625
+285,missouri,Trail Of Tears,trte,National Historic Trail,"Santa Fe, NM",87505,(505) 988-6098,TRTE,2806080
+286,missouri,Ulysses S Grant,ulsg,National Historic Site,"St. Louis, MO",63123,(314) 842-1867,ULSG,2812542
+287,missouri,Wilson's Creek,wicr,National Battlefield,"Republic, MO",65738,(417) 732-2662,WICR,1740353
+288,montana,Big Hole,biho,National Battlefield,"Wisdom, MT",59761,(406) 689-3155,BIHO,1832776
+289,montana,Bighorn Canyon,bica,National Recreation Area,"Lovell, WY",82431,(307) 548-5406,BICA,540914
+290,montana,Fort Union Trading Post,fous,National Historic Site,"Williston, ND",58801,(701) 572-9083,FOUS,2982915
+291,montana,Glacier,glac,National Park,"West Glacier, MT",59936,(406) 888-7800,GLAC,2634074
+292,montana,Grant-Kohrs Ranch,grko,National Historic Site,"Deer Lodge, MT",59722,(406) 846-2070,GRKO,2383580
+293,montana,Ice Age Floods,iafl,National Geologic Trail,"Coulee Dam, WA",99116,(509) 237-9722,IAFL,1934840
+294,montana,Lewis & Clark,lecl,National Historic Trail,"Omaha, NE",68102,(402) 661-1804,LECL,437002
+295,montana,Little Bighorn Battlefield,libi,National Monument,"Crow Agency, MT",59022-0039,(406) 638-3216,LIBI,1238981
+296,montana,Nez Perce,nepe,National Historical Park,"Lapwai, ID",83540-9715,(208) 843-7001,NEPE,1708501
+297,montana,Yellowstone,yell,National Park,"Yellowstone National Park, WY",82190-0168,307-344-7381,YELL,663440
+298,nebraska,Agate Fossil Beds,agfo,National Monument,"Harrison, NE",69346,(308) 665-4113,AGFO,1002554
+299,nebraska,California,cali,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,CALI,1657198
+300,nebraska,Homestead,home,National Historical Park,"Beatrice, NE",68310,(402) 223-3514,HOME,1564062
+301,nebraska,Lewis & Clark,lecl,National Historic Trail,"Omaha, NE",68102,(402) 661-1804,LECL,1410461
+302,nebraska,Missouri,mnrr,National Recreational River,"Yankton, SD",57078,605-665-0209,MNRR,671093
+303,nebraska,Mormon Pioneer,mopi,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,MOPI,2008727
+304,nebraska,Niobrara,niob,National Scenic River,"Valentine, NE",69201,(402) 376-1901,NIOB,2940032
+305,nebraska,Oregon,oreg,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,OREG,1263277
+306,nebraska,Pony Express,poex,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,POEX,2658874
+307,nebraska,Scotts Bluff,scbl,National Monument,"Gering, NE",69341,(308) 436-9700,SCBL,270478
+308,nevada,California,cali,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,CALI,2521237
+309,nevada,Death Valley,deva,National Park,"Santa Fe, NM",87505,(760) 786-3200,DEVA,2140447
+310,nevada,Great Basin,grba,National Park,"Baker, NV",89311,775-234-7331,GRBA,1258186
+311,nevada,Lake Mead,lake,National Recreation Area,"Boulder City, NV",89005,(702) 293-8990,LAKE,863595
+312,nevada,Old Spanish,olsp,National Historic Trail,"Santa Fe, NM",87505,(505) 988-6098,OLSP,326260
+313,nevada,Pony Express,poex,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,POEX,864902
+314,nevada,Tule Springs Fossil Beds,tusk,National Monument,"Boulder City, NV",89005,(702) 293-8853,TUSK,2457874
+315,new hampshire,Appalachian,appa,National Scenic Trail,"Harpers Ferry, WV",25425,(304) 535-6278,APPA,2228198
+316,new hampshire,Saint-Gaudens,saga,National Historical Park,"Cornish, NH",3745,603-675-2175,SAGA,554770
+317,new jersey,Appalachian,appa,National Scenic Trail,"Harpers Ferry, WV",25425,(304) 535-6278,APPA,1306827
+318,new jersey,Delaware Water Gap,dewa,National Recreation Area,"Bushkill, PA",18324,(570) 426-2452,DEWA,506747
+319,new jersey,Ellis Island,elis,Part of Statue of Liberty National Monument,"Jersey City, NJ",7305,(212) 363-3200,ELIS,1855428
+320,new jersey,Gateway,gate,National Recreation Area,"Staten Island, NY",10305,(718) 354-4606,GATE,2914949
+321,new jersey,Great Egg Harbor River,greg,,"Philadelphia, PA",19106,(215) 597-5823,GREG,408769
+322,new jersey,Lower Delaware,lode,National Wild and Scenic River,"Philadelphia, PA",19106,215-597-6482,LODE,1772877
+323,new jersey,Morristown,morr,National Historical Park,"Morristown, NJ",7052,(973) 539-2016,MORR,779320
+324,new jersey,New Jersey Pinelands,pine,National Reserve,"New Lisbon, NJ",8064,(609) 894-7300,PINE,2705397
+325,new jersey,Paterson Great Falls,pagr,National Historical Park,"Paterson, NJ",7501,(973) 523-0370,PAGR,286418
+326,new jersey,Thomas Edison,edis,National Historical Park,"West Orange, NJ",7052,973-736-0550,EDIS,2497981
+327,new jersey,Washington-Rochambeau Revolutionary Route,waro,National Historic Trail,"King of Prussia, PA",19406,610-783-1006,WARO,1889830
+328,new mexico,Aztec Ruins,azru,National Monument,"Aztec, NM",87410,(505) 334-6174,AZRU,1194318
+329,new mexico,Bandelier,band,National Monument,"Los Alamos, NM",87544,(505) 672-3861,BAND,84202
+330,new mexico,Capulin Volcano,cavo,National Monument,"Des Moines, NM",88418,(575) 278-2201,CAVO,2332142
+331,new mexico,Carlsbad Caverns,cave,National Park,"Carlsbad, NM",88220,(575) 785-2232,CAVE,2394448
+332,new mexico,Chaco Culture,chcu,National Historical Park,"Nageezi, NM",87037,(505) 786-7014,CHCU,1780060
+333,new mexico,El Camino Real de Tierra Adentro,elca,National Historic Trail,"Santa Fe, NM",87505,(505) 988-6098,ELCA,712243
+334,new mexico,El Malpais,elma,National Monument,"Grants, NM",87020,(505) 876-2783,ELMA,220885
+335,new mexico,El Morro,elmo,National Monument,"Ramah, NM",87321,(505) 783-4226,ELMO,170004
+336,new mexico,Fort Union,foun,National Monument,"Watrous, NM",87753,(505) 425-8025,FOUN,1524206
+337,new mexico,Gila Cliff Dwellings,gicl,National Monument,"Mimbres, NM",88049,(575) 536-9461,GICL,1610478
+338,new mexico,Manhattan Project,mapr,National Historical Park,"Denver, CO",80225-0287,(505) 661-6277,MAPR,276553
+339,new mexico,Old Spanish,olsp,National Historic Trail,"Santa Fe, NM",87505,(505) 988-6098,OLSP,349636
+340,new mexico,Pecos,peco,National Historical Park,"Pecos, NM",87552,(505) 757-7241,PECO,2017394
+341,new mexico,Petroglyph,petr,National Monument,"Albuquerque, NM",87120,(505) 899-0205,PETR,1800480
+342,new mexico,Salinas Pueblo Missions,sapu,National Monument,"Mountainair, NM",87036-0517,(505) 847-2585,SAPU,2507614
+343,new mexico,Santa Fe,safe,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,SAFE,1119585
+344,new mexico,Valles Caldera,vall,National Preserve,"Jemez Springs, NM",87025,(575) 829-4100,VALL,930442
+345,new mexico,White Sands,whsa,National Park,"Holloman AFB, NM",88330,(575) 479-6124,WHSA,1424378
+346,new york,African Burial Ground,afbg,National Monument,"New York, NY",10005,(212) 238-4367,AFBG,824178
+347,new york,Appalachian,appa,National Scenic Trail,"Harpers Ferry, WV",25425,(304) 535-6278,APPA,2247490
+348,new york,Captain John Smith Chesapeake,cajo,National Historic Trail,"Yorktown, VA",23690,(757) 898-3400,CAJO,1717743
+349,new york,Castle Clinton,cacl,National Monument,"New York, NY",10005,(212) 344-7220,CACL,328834
+350,new york,Chesapeake Bay,cbpo,,"Annapolis, MD",21403,(410) 260-2470,CBPO,1048999
+351,new york,Eleanor Roosevelt,elro,National Historic Site,"Hyde Park, NY",12538,(845) 229-9422,ELRO,2209037
+352,new york,Ellis Island,elis,Part of Statue of Liberty National Monument,"Jersey City, NJ",7305,(212) 363-3200,ELIS,1933087
+353,new york,Federal Hall,feha,National Memorial,"New York, NY",10005,(212) 825-6990,FEHA,576983
+354,new york,Fire Island,fiis,National Seashore,"Patchogue, NY",11772,631-687-4750,FIIS,1246844
+355,new york,Fort Stanwix,fost,National Monument,"Rome, NY",13440,315-338-7730,FOST,956202
+356,new york,Gateway,gate,National Recreation Area,"Staten Island, NY",10305,(718) 354-4606,GATE,2105274
+357,new york,General Grant,gegr,National Memorial,"New York, NY",10027,(646) 670-7251,GEGR,1142295
+358,new york,Governors Island,gois,National Monument,"New York, NY",10004-1921,(212) 825-3054,GOIS,844505
+359,new york,Hamilton Grange,hagr,National Memorial,"New York, NY",10031,(646) 548-2310,HAGR,1693693
+360,new york,Harriet Tubman,hart,National Historical Park,"Auburn, NY",13021-0769,315-882-8060,HART,294931
+361,new york,Home Of Franklin D Roosevelt,hofr,National Historic Site,"Hyde Park, NY",12538,(845) 229-5320,HOFR,816661
+362,new york,Lower East Side Tenement Museum,loea,National Historic Site,"New York, NY",10002,(877) 975-3786,LOEA,257244
+363,new york,Martin Van Buren,mava,National Historic Site,"Kinderhook, NY",12106-3605,(518) 758-9689,MAVA,2469994
+364,new york,National Parks of New York Harbor,npnh,,"New York, NY",10007,(212) 668-5180,NPNH,535943
+365,new york,North Country,noco,National Scenic Trail,"Lowell, MI",49331,(616) 319-7906,NOCO,2898843
+366,new york,Sagamore Hill,sahi,National Historic Site,"Oyster Bay, NY",11771,(516) 922-4788,SAHI,1275500
+367,new york,Saint Paul's Church,sapa,National Historic Site,"Mount Vernon, NY",10550,(914) 667-4116,SAPA,1447359
+368,new york,Saratoga,sara,National Historical Park,"Stillwater, NY",12170,(518) 670-2985,SARA,1419010
+369,new york,Statue Of Liberty,stli,National Monument,"New York, NY",10004,(212) 363-3200,STLI,1745957
+370,new york,Stonewall,ston,National Monument,"New York, NY",10005,212-668-2577,STON,292284
+371,new york,Theodore Roosevelt Birthplace,thrb,National Historic Site,"New York, NY",10003,(212) 260-1616,THRB,607908
+372,new york,Theodore Roosevelt Inaugural,thri,National Historic Site,"Buffalo, NY",14202,(716) 884-0095,THRI,950942
+373,new york,Thomas Cole,thco,National Historic Site,"Catskill, NY",12414,518.943.7465,THCO,1130323
+374,new york,Upper Delaware,upde,Scenic & Recreational River,"Beach Lake, PA",18405,(570) 685-4871,UPDE,715323
+375,new york,Vanderbilt Mansion,vama,National Historic Site,"Hyde Park, NY",12538,(845) 229-7770,VAMA,469500
+376,new york,Washington-Rochambeau Revolutionary Route,waro,National Historic Trail,"King of Prussia, PA",19406,610-783-1006,WARO,1951776
+377,new york,Women's Rights,wori,National Historical Park,"Seneca Falls, NY",13148,(315) 568-0024,WORI,995009
+378,north carolina,Appalachian,appa,National Scenic Trail,"Harpers Ferry, WV",25425,(304) 535-6278,APPA,2853920
+379,north carolina,Blue Ridge,blri,Parkway,"Asheville, NC",28803,(828) 348-3400,BLRI,2017079
+380,north carolina,Cape Hatteras,caha,National Seashore,"Manteo, NC",27954,(252) 473-2111,CAHA,2806233
+381,north carolina,Cape Lookout,calo,National Seashore,"Harkers Island, NC",28531,(252) 728-2250,CALO,320926
+382,north carolina,Carl Sandburg Home,carl,National Historic Site,"Flat Rock, NC",28731,(828) 693-4178,CARL,2777267
+383,north carolina,Fort Raleigh,fora,National Historic Site,"Manteo, NC",27954,(252) 473-2111,FORA,619477
+384,north carolina,Great Smoky Mountains,grsm,National Park,"Gatlinburg, TN",37738,(865) 436-1200,GRSM,2177432
+385,north carolina,Guilford Courthouse,guco,National Military Park,"Greensboro, NC",27410,(336) 288-1776,GUCO,1754534
+386,north carolina,Moores Creek,mocr,National Battlefield,"Currie, NC",28435,(910) 283-5591,MOCR,433039
+387,north carolina,Overmountain Victory,ovvi,National Historic Trail,"Gaffney, SC",29341,(864) 461-2828,OVVI,880192
+388,north carolina,Trail Of Tears,trte,National Historic Trail,"Santa Fe, NM",87505,(505) 988-6098,TRTE,2939647
+389,north carolina,Wright Brothers,wrbr,National Memorial,"Manteo, NC",27954,(252) 473-2111,WRBR,2896378
+390,north dakota,Fort Union Trading Post,fous,National Historic Site,"Williston, ND",58801,(701) 572-9083,FOUS,809884
+391,north dakota,Knife River Indian Villages,knri,National Historic Site,"Stanton, ND",58571,(701) 745-3300,KNRI,2468985
+392,north dakota,Lewis & Clark,lecl,National Historic Trail,"Omaha, NE",68102,(402) 661-1804,LECL,2349588
+393,north dakota,North Country,noco,National Scenic Trail,"Lowell, MI",49331,(616) 319-7906,NOCO,2008792
+394,north dakota,Theodore Roosevelt,thro,National Park,"Medora, ND",58645,(701) 623-4466,THRO,1145382
+395,northern mariana islands,American Memorial,amme,Park,"Saipan, MP",96950,(670) 234-7207,AMME,2331709
+396,ohio,Charles Young Buffalo Soldiers,chyo,National Monument,"Wilberforce, OH",45384,(937) 352-6757,CHYO,462336
+397,ohio,Cuyahoga Valley,cuva,National Park,"Brecksville, OH",44141,(440) 717-3890,CUVA,2702775
+398,ohio,Dayton Aviation Heritage,daav,National Historical Park,"Dayton, OH",45402,(937) 225-7705,DAAV,2121669
+399,ohio,First Ladies,fila,National Historic Site,"Canton, OH",44702-2107,(330) 452-0876,FILA,1357623
+400,ohio,Hopewell Culture,hocu,National Historical Park,"Chillicothe, OH",45601,(740) 774-1126,HOCU,2891896
+401,ohio,James A Garfield,jaga,National Historic Site,"Mentor, OH",44060,(440) 255-8722,JAGA,2362149
+402,ohio,Lewis & Clark,lecl,National Historic Trail,"Omaha, NE",68102,(402) 661-1804,LECL,2505399
+403,ohio,North Country,noco,National Scenic Trail,"Lowell, MI",49331,(616) 319-7906,NOCO,634017
+404,ohio,Perry's Victory & International Peace,pevi,Memorial,"Put-in-Bay, OH",43456,(419) 285-2184,PEVI,310288
+405,ohio,William Howard Taft,wiho,National Historic Site,"Cincinnati, OH",45219,(513) 684-3262,WIHO,2686008
+406,oklahoma,Chickasaw,chic,National Recreation Area,"Sulphur, OK",73086,(580) 622-7234,CHIC,2730841
+407,oklahoma,Fort Smith,fosm,National Historic Site,"Fort Smith, AR",72901,(479) 783-3961,FOSM,1619512
+408,oklahoma,Oklahoma City,okci,National Memorial,"Oklahoma City, OK",73102-0676,(405) 609-8859,OKCI,261046
+409,oklahoma,Santa Fe,safe,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,SAFE,1282643
+410,oklahoma,Trail Of Tears,trte,National Historic Trail,"Santa Fe, NM",87505,(505) 988-6098,TRTE,1025755
+411,oklahoma,Washita Battlefield,waba,National Historic Site,"Cheyenne, OK",73628,(580) 497-2742,WABA,159419
+412,oregon,California,cali,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,CALI,1063897
+413,oregon,Crater Lake,crla,National Park,"Crater Lake, OR",97604,(541) 594-3000,CRLA,629954
+414,oregon,Fort Vancouver,fova,National Historic Site,"Vancouver, WA",98661,(360) 816-6230,FOVA,2673410
+415,oregon,Ice Age Floods,iafl,National Geologic Trail,"Coulee Dam, WA",99116,(509) 237-9722,IAFL,1655392
+416,oregon,John Day Fossil Beds,joda,National Monument,"Kimberly, OR",97848,(541) 987-2333,JODA,2141146
+417,oregon,Lewis & Clark,lecl,National Historic Trail,"Omaha, NE",68102,(402) 661-1804,LECL,2200685
+418,oregon,Lewis and Clark,lewi,National Historical Park,"Astoria, OR",97103,(503) 861-2471,LEWI,1581117
+419,oregon,Nez Perce,nepe,National Historical Park,"Lapwai, ID",83540-9715,(208) 843-7001,NEPE,1301665
+420,oregon,Oregon,oreg,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,OREG,1879129
+421,oregon,Oregon Caves,orca,National Monument & Preserve,"Cave Junction, OR",97523,(541) 592-2100,ORCA,2376312
+422,pennsylvania,Allegheny Portage Railroad,alpo,National Historic Site,"Gallitzin, PA",16641,(814) 886-6150,ALPO,670736
+423,pennsylvania,Appalachian,appa,National Scenic Trail,"Harpers Ferry, WV",25425,(304) 535-6278,APPA,1417396
+424,pennsylvania,Captain John Smith Chesapeake,cajo,National Historic Trail,"Yorktown, VA",23690,(757) 898-3400,CAJO,324207
+425,pennsylvania,Chesapeake Bay,cbpo,,"Annapolis, MD",21403,(410) 260-2470,CBPO,297240
+426,pennsylvania,Delaware Water Gap,dewa,National Recreation Area,"Bushkill, PA",18324,(570) 426-2452,DEWA,748225
+427,pennsylvania,Edgar Allan Poe,edal,National Historic Site,"Philadelphia, PA",19106,215-965-2305,EDAL,204995
+428,pennsylvania,Eisenhower,eise,National Historic Site,"Gettysburg, PA",17325,(717) 338-9114,EISE,2786642
+429,pennsylvania,First State,frst,National Historical Park,"New Castle, DE",19720,(302) 544-6363,FRST,2275904
+430,pennsylvania,Flight 93,flni,National Memorial,"Shanksville, PA",15560,(814) 893-6322,FLNI,1542895
+431,pennsylvania,Fort Necessity,fone,National Battlefield,"Farmington, PA",15437,(724) 329-5512,FONE,2078062
+432,pennsylvania,Friendship Hill,frhi,National Historic Site,"Farmington, PA",15437,(724) 329-2501,FRHI,2809246
+433,pennsylvania,Gettysburg,gett,National Military Park,"Gettysburg, PA",17325,(717) 334-1124,GETT,2542173
+434,pennsylvania,Gloria Dei Church,glde,National Historic Site,"Philadelphia, PA",19106,215-389-1513,GLDE,2534171
+435,pennsylvania,Hopewell Furnace,hofu,National Historic Site,"Elverson, PA",19520,(610) 582-8773,HOFU,1728857
+436,pennsylvania,Independence,inde,National Historical Park,"Philadelphia, PA",19106,215-965-2305,INDE,400087
+437,pennsylvania,Johnstown Flood,jofl,National Memorial,"South Fork, PA",15956,(814) 886-6171,JOFL,516390
+438,pennsylvania,Lewis & Clark,lecl,National Historic Trail,"Omaha, NE",68102,(402) 661-1804,LECL,2498692
+439,pennsylvania,Lower Delaware,lode,National Wild and Scenic River,"Philadelphia, PA",19106,215-597-6482,LODE,2310421
+440,pennsylvania,North Country,noco,National Scenic Trail,"Lowell, MI",49331,(616) 319-7906,NOCO,1470546
+441,pennsylvania,Potomac Heritage,pohe,National Scenic Trail,"Washington, DC",20242,202-619-7154,POHE,2784414
+442,pennsylvania,Steamtown,stea,National Historic Site,"Scranton, PA",18503-2018,570-340-5200,STEA,553298
+443,pennsylvania,Thaddeus Kosciuszko,thko,National Memorial,"Philadelphia, PA",19106,(215) 965-2305,THKO,1496478
+444,pennsylvania,Upper Delaware,upde,Scenic & Recreational River,"Beach Lake, PA",18405,(570) 685-4871,UPDE,2958223
+445,pennsylvania,Valley Forge,vafo,National Historical Park,"King of Prussia, PA",19406,(610) 783-1000,VAFO,1878719
+446,pennsylvania,Washington-Rochambeau Revolutionary Route,waro,National Historic Trail,"King of Prussia, PA",19406,610-783-1006,WARO,2491714
+447,puerto rico,San Juan,saju,National Historic Site,"San Juan, PR",901,(787) 729-6777,SAJU,1536202
+448,rhode island,Blackstone River Valley,blrv,National Historical Park,"Providence, RI",2903,401-521-7266,BLRV,274851
+449,rhode island,Roger Williams,rowi,National Memorial,"Providence, RI",2903,401-521-7266,ROWI,2030619
+450,rhode island,Touro Synagogue,tosy,National Historic Site,"Newport, RI",2840,(401) 847-4794,TOSY,1624083
+451,rhode island,Washington-Rochambeau Revolutionary Route,waro,National Historic Trail,"King of Prussia, PA",19406,610-783-1006,WARO,2217683
+452,south carolina,Charles Pinckney,chpi,National Historic Site,"Sullivan's Island, SC",29482,(843) 881-5516,CHPI,927706
+453,south carolina,Congaree,cong,National Park,"Hopkins, SC",29061,(803) 776-4396,CONG,1807287
+454,south carolina,Cowpens,cowp,National Battlefield,"Gaffney, SC",29341,(864) 461-2828,COWP,788476
+455,south carolina,Fort Sumter and Fort Moultrie,fosu,National Historical Park,"Sullivan's Island, SC",29482,(843) 883-3123,FOSU,478949
+456,south carolina,Kings Mountain,kimo,National Military Park,"Blacksburg, SC",29702,(864) 936-7921,KIMO,249130
+457,south carolina,Ninety Six,nisi,National Historic Site,"Ninety Six, SC",29666,(864) 543-4068,NISI,417874
+458,south carolina,Overmountain Victory,ovvi,National Historic Trail,"Gaffney, SC",29341,(864) 461-2828,OVVI,712748
+459,south carolina,Reconstruction Era,reer,National Historical Park,"Beaufort, SC",29902,(843) 962-0039,REER,2747728
+460,south dakota,Badlands,badl,National Park,"Interior, SD",57750,(605) 433-5361,BADL,2091353
+461,south dakota,Jewel Cave,jeca,National Monument,"Custer, SD",57730,(605) 673-8300,JECA,1144870
+462,south dakota,Lewis & Clark,lecl,National Historic Trail,"Omaha, NE",68102,(402) 661-1804,LECL,2375819
+463,south dakota,Minuteman Missile,mimi,National Historic Site,"Philip, SD",57567,(605) 433-5552,MIMI,2626327
+464,south dakota,Missouri,mnrr,National Recreational River,"Yankton, SD",57078,605-665-0209,MNRR,1898249
+465,south dakota,Mount Rushmore,moru,National Memorial,"Keystone, SD",57751,(605) 574-2523,MORU,2837866
+466,south dakota,Wind Cave,wica,National Park,"Hot Springs, SD",57747,(605) 745-4600,WICA,2515422
+467,tennessee,Andrew Johnson,anjo,National Historic Site,"Greeneville, TN",37743,(423) 638-3551,ANJO,1787784
+468,tennessee,Appalachian,appa,National Scenic Trail,"Harpers Ferry, WV",25425,(304) 535-6278,APPA,239700
+469,tennessee,Big South Fork,biso,National River & Recreation Area,"Oneida, TN",37841,(423) 569-9778,BISO,417936
+470,tennessee,Chickamauga & Chattanooga,chch,National Military Park,"Fort Oglethorpe, GA",30742,706-866-9241,CHCH,711748
+471,tennessee,Cumberland Gap,cuga,National Historical Park,"Middlesboro, KY",40965,(606) 248-2817,CUGA,756529
+472,tennessee,Fort Donelson,fodo,National Battlefield,"Dover, TN",37058,931-232-5706,FODO,1285896
+473,tennessee,Great Smoky Mountains,grsm,National Park,"Gatlinburg, TN",37738,(865) 436-1200,GRSM,482623
+474,tennessee,Manhattan Project,mapr,National Historical Park,"Denver, CO",80225-0287,(505) 661-6277,MAPR,2951832
+475,tennessee,Natchez Trace,natr,Parkway,"Tupelo, MS",38804,(800) 305-7417,NATR,374031
+476,tennessee,Natchez Trace,natt,National Scenic Trail,"Tupelo, MS",38804,18003057417,NATT,2241189
+477,tennessee,Obed,obed,Wild & Scenic River,"Wartburg, TN",37887,(423) 346-6294,OBED,210065
+478,tennessee,Overmountain Victory,ovvi,National Historic Trail,"Gaffney, SC",29341,(864) 461-2828,OVVI,921710
+479,tennessee,Shiloh,shil,National Military Park,"Shiloh, TN",38376,(731) 689-5696,SHIL,106782
+480,tennessee,Stones River,stri,National Battlefield,"Murfreesboro, TN",37129,615-893-9501,STRI,241018
+481,tennessee,Trail Of Tears,trte,National Historic Trail,"Santa Fe, NM",87505,(505) 988-6098,TRTE,1065058
+482,texas,Alibates Flint Quarries,alfl,National Monument,"Fritch, TX",79036,(806) 857-6680,ALFL,1463246
+483,texas,Amistad,amis,National Recreation Area,"Del Rio, TX",78840,(830)775-7491,AMIS,1502405
+484,texas,Big Bend,bibe,National Park,"Big Bend National Park, TX",79834-0129,432-477-2251,BIBE,1367781
+485,texas,Big Thicket,bith,National Preserve,"Kountze, TX",77625,409-951-6700,BITH,762592
+486,texas,Chamizal,cham,National Memorial,"El Paso, TX",79905,915-532-7273,CHAM,2015019
+487,texas,El Camino Real de los Tejas,elte,National Historic Trail,"Santa Fe, NM",87505,(505) 988-6098,ELTE,1452106
+488,texas,El Camino Real de Tierra Adentro,elca,National Historic Trail,"Santa Fe, NM",87505,(505) 988-6098,ELCA,2347891
+489,texas,Fort Davis,foda,National Historic Site,"Fort Davis, TX",79734,(432) 426-3224,FODA,2519057
+490,texas,Guadalupe Mountains,gumo,National Park,"Salt Flat, TX",79847,915-828-3251,GUMO,651207
+491,texas,Lake Meredith,lamr,National Recreation Area,"Fritch, TX",79036,(806) 857-3151,LAMR,1579863
+492,texas,Lyndon B Johnson,lyjo,National Historical Park,"Johnson City, TX",78636,(830) 868-7128,LYJO,2710755
+493,texas,Padre Island,pais,National Seashore,"Corpus Christi, TX",78480,(361) 949-8068,PAIS,1853219
+494,texas,Palo Alto Battlefield,paal,National Historical Park,"Brownsville, TX",78520,(956) 541-2785,PAAL,2874439
+495,texas,Rio Grande,rigr,Wild & Scenic River,"Big Bend National Park, TX",79834,(432) 477-2251,RIGR,2691696
+496,texas,San Antonio Missions,saan,National Historical Park,"San Antonio, TX",78210,(210) 932-1001,SAAN,2486276
+497,texas,Waco Mammoth,waco,National Monument,"Waco, TX",76708,(254) 750-7946,WACO,2087341
+498,utah,Arches,arch,National Park,"Moab, UT",84532,(435) 719-2299,ARCH,806104
+499,utah,Bryce Canyon,brca,National Park,"Bryce, UT",84764,(435) 834-5322,BRCA,2481250
+500,utah,California,cali,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,CALI,573264
+501,utah,Canyonlands,cany,National Park,"Moab, UT",84532,435-719-2313,CANY,2773304
+502,utah,Capitol Reef,care,National Park,"Torrey, UT",84775,435-425-3791,CARE,2700540
+503,utah,Cedar Breaks,cebr,National Monument,"Cedar City, UT",84720,(435) 986-7120,CEBR,2005016
+504,utah,Dinosaur,dino,National Monument,"Dinosaur, CO",81610,(435) 781-7700,DINO,2320606
+505,utah,Glen Canyon,glca,National Recreation Area,"Page, AZ",86040,(928) 608-6200,GLCA,999293
+506,utah,Golden Spike,gosp,National Historical Park,"Brigham City, UT",84302,(435) 471-2209,GOSP,839758
+507,utah,Hovenweep,hove,National Monument,"Cortez, CO",81321,(970) 562-4282,HOVE,227947
+508,utah,Mormon Pioneer,mopi,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,MOPI,680480
+509,utah,Natural Bridges,nabr,National Monument,"Lake Powell, UT",84533-0001,(435) 692-1234,NABR,1890046
+510,utah,Old Spanish,olsp,National Historic Trail,"Santa Fe, NM",87505,(505) 988-6098,OLSP,2572881
+511,utah,Pony Express,poex,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,POEX,2740208
+512,utah,Rainbow Bridge,rabr,National Monument,"Page, AZ",86040,(928) 608-6200,RABR,1868290
+513,utah,Timpanogos Cave,tica,National Monument,"American Fork, UT",84003,(801)756-5239,TICA,1529251
+514,utah,Zion,zion,National Park,"Springdale, UT",84767,435-772-3256,ZION,1666605
+515,vermont,Appalachian,appa,National Scenic Trail,"Harpers Ferry, WV",25425,(304) 535-6278,APPA,780490
+516,vermont,Marsh - Billings - Rockefeller,mabi,National Historical Park,"Woodstock, VT",5091,(802) 457-3368,MABI,2757391
+517,vermont,North Country,noco,National Scenic Trail,"Lowell, MI",49331,(616) 319-7906,NOCO,2358272
+518,virgin islands,Buck Island Reef,buis,National Monument,"Christiansted, St. Croix, VI",820,(340) 773.1460,BUIS,844490
+519,virgin islands,Christiansted,chri,National Historic Site,"Christiansted, VI",820,(340) 773.1460,CHRI,2067700
+520,virgin islands,Salt River Bay,sari,National Historical Park and Ecological Preserve,"Christiansted, VI",820,(340) 773.1460,SARI,1970803
+521,virgin islands,Virgin Islands,viis,National Park,"St. John, VI",830,(340) 776-6201,VIIS,1401255
+522,virgin islands,Virgin Islands Coral Reef,vicr,National Monument,"St. John, VI",830,(340) 776-6201,VICR,2621752
+523,virginia,Appalachian,appa,National Scenic Trail,"Harpers Ferry, WV",25425,(304) 535-6278,APPA,120142
+524,virginia,Appomattox Court House,apco,National Historical Park,"Appomattox, VA",24522,(434) 352-8987,APCO,2167758
+525,virginia,"Arlington House, The Robert  E. Lee Memorial",arho,,"McLean, VA",22101,(703) 235-1530,ARHO,1868793
+526,virginia,Assateague Island,asis,National Seashore,"Berlin, MD",21811,(410) 641-1441,ASIS,2112017
+527,virginia,Blue Ridge,blri,Parkway,"Asheville, NC",28803,(828) 348-3400,BLRI,110197
+528,virginia,Booker T Washington,bowa,National Monument,"Hardy, VA",24101,(540) 721-2094,BOWA,2393917
+529,virginia,Cape Henry Memorial,came,Part of Colonial National Historical Park,"Yorktown, VA",23690,(757) 898-2410,CAME,1488861
+530,virginia,Captain John Smith Chesapeake,cajo,National Historic Trail,"Yorktown, VA",23690,(757) 898-3400,CAJO,2191082
+531,virginia,Cedar Creek & Belle Grove,cebe,National Historical Park,"Middletown, VA",22645,540-869-3051,CEBE,284151
+532,virginia,Chesapeake Bay,cbpo,,"Annapolis, MD",21403,(410) 260-2470,CBPO,1593739
+533,virginia,Civil War Defenses of Washington,cwdw,,"Washington, DC",20008,202-829-2163,CWDW,2257045
+534,virginia,Colonial,colo,National Historical Park,"Yorktown, VA",23690,(757) 898-3400,COLO,1291473
+535,virginia,Cumberland Gap,cuga,National Historical Park,"Middlesboro, KY",40965,(606) 248-2817,CUGA,1294618
+536,virginia,Fort Monroe,fomr,National Monument,"Fort Monroe, VA",23651-1001,757-722-FORT (3678),FOMR,513840
+537,virginia,Fredericksburg & Spotsylvania,frsp,National Military Park,"Fredericksburg, VA",22405,(540) 693-3200,FRSP,587904
+538,virginia,George Washington,gwmp,Memorial Parkway,"McLean, VA",22101,(703) 289-2500,GWMP,569487
+539,virginia,George Washington Birthplace,gewa,National Monument,"Colonial Beach, VA",22443,(804) 224-1732,GEWA,1755569
+540,virginia,Great Falls,grfa,Park,"McLean, VA",22101,(703) 757-3101,GRFA,1476621
+541,virginia,Green Springs,grsp,,"Multiple Privately Owned Properties, VA",23093,(540) 693-3200,GRSP,2970151
+542,virginia,Harpers Ferry,hafe,National Historical Park,"Harpers Ferry, WV",25425,(304) 535-6029,HAFE,2357207
+543,virginia,Historic Jamestowne,jame,Part of Colonial National Historical Park,"Yorktown, VA",23690,757-898-3400,JAME,2345398
+544,virginia,Maggie L Walker,mawa,National Historic Site,"Richmond, VA",23223,(804) 771-2017,MAWA,2070069
+545,virginia,Manassas,mana,National Battlefield Park,"Manassas, VA",20109,(703) 361-1339,MANA,763218
+546,virginia,Overmountain Victory,ovvi,National Historic Trail,"Gaffney, SC",29341,(864) 461-2828,OVVI,1020474
+547,virginia,Petersburg,pete,National Battlefield,"Petersburg, VA",23803,(804) 732-3531,PETE,504759
+548,virginia,Potomac Heritage,pohe,National Scenic Trail,"Washington, DC",20242,202-619-7154,POHE,2591452
+549,virginia,Prince William Forest,prwi,Park,"Triangle, VA",22172,(703) 221-7181,PRWI,270363
+550,virginia,Richmond,rich,National Battlefield Park,"Richmond, VA",23223,(804) 226-1981,RICH,2304196
+551,virginia,Shenandoah,shen,National Park,"Luray, VA",22835,(540) 999-3500,SHEN,2557913
+552,virginia,Star-Spangled Banner,stsp,National Historic Trail,"Baltimore, MD",21230,410.962.4290,STSP,100065
+553,virginia,Washington-Rochambeau Revolutionary Route,waro,National Historic Trail,"King of Prussia, PA",19406,610-783-1006,WARO,2466033
+554,virginia,Wolf Trap National Park for the Performing Arts,wotr,,"Vienna, VA",22182-1643,(703) 255-1800,WOTR,1579915
+555,virginia,Yorktown Battlefield,york,Part of Colonial National Historical Park,"Yorktown, VA",23690,(757) 898-2410,YORK,1470935
+556,washington,Ebey's Landing,ebla,National Historical Reserve,"Coupeville, WA",98239,(360) 678-6084,EBLA,1188447
+557,washington,Fort Vancouver,fova,National Historic Site,"Vancouver, WA",98661,(360) 816-6230,FOVA,1035680
+558,washington,Ice Age Floods,iafl,National Geologic Trail,"Coulee Dam, WA",99116,(509) 237-9722,IAFL,1923898
+559,washington,Klondike Gold Rush - Seattle Unit,klse,National Historical Park,"Seattle, WA",98104,(206) 220-4240,KLSE,1808617
+560,washington,Lake Roosevelt,laro,National Recreation Area,"Coulee Dam, WA",99116,509-754-7800,LARO,2386549
+561,washington,Lewis & Clark,lecl,National Historic Trail,"Omaha, NE",68102,(402) 661-1804,LECL,2855000
+562,washington,Lewis and Clark,lewi,National Historical Park,"Astoria, OR",97103,(503) 861-2471,LEWI,1365205
+563,washington,Manhattan Project,mapr,National Historical Park,"Denver, CO",80225-0287,(505) 661-6277,MAPR,2910895
+564,washington,Minidoka,miin,National Historic Site,"Hagerman, ID",83332,208-825-4169,MIIN,233381
+565,washington,Monte Rainier,es-es,Parque nacional,"Ashford, WA",98304,(360) 569-2211,ES-ES,1589365
+566,washington,Mount Rainier,mora,National Park,"Ashford, WA",98304,(360) 569-2211,MORA,2434951
+567,washington,Nez Perce,nepe,National Historical Park,"Lapwai, ID",83540-9715,(208) 843-7001,NEPE,2905037
+568,washington,North Cascades,noca,National Park,"Sedro-Woolley, WA",98284,(360) 854-7200,NOCA,1496190
+569,washington,Olympic,olym,National Park,"Port Angeles, WA",98362,(360) 565-3130,OLYM,2986053
+570,washington,Oregon,oreg,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,OREG,1082432
+571,washington,San Juan Island,sajh,National Historical Park,"Friday Harbor, WA",98250,(360) 378-2240,SAJH,2670901
+572,washington,Whitman Mission,whmi,National Historic Site,"Walla Walla, WA",99362,(509) 522-6360,WHMI,1932078
+573,washington,Wing Luke Museum,wing,Affiliated Area,"Seattle, WA",98104,206.623.5124,WING,2934402
+574,west virginia,Appalachian,appa,National Scenic Trail,"Harpers Ferry, WV",25425,(304) 535-6278,APPA,280161
+575,west virginia,Bluestone,blue,National Scenic River,"Glen Jean, WV",25846,(304) 465-0508,BLUE,939754
+576,west virginia,Chesapeake & Ohio Canal,choh,National Historical Park,"Hagerstown, MD",21740,301-739-4200,CHOH,677699
+577,west virginia,Chesapeake Bay,cbpo,,"Annapolis, MD",21403,(410) 260-2470,CBPO,1576616
+578,west virginia,Gauley River,gari,National Recreation Area,"Glen Jean, WV",25846-0246,(304) 465-0508,GARI,2062068
+579,west virginia,Harpers Ferry,hafe,National Historical Park,"Harpers Ferry, WV",25425,(304) 535-6029,HAFE,2477576
+580,west virginia,Lewis & Clark,lecl,National Historic Trail,"Omaha, NE",68102,(402) 661-1804,LECL,1363873
+581,west virginia,New River Gorge,neri,National Park and Preserve,"Glen Jean, WV",25846,(304) 465-0508,NERI,2495983
+582,wisconsin,Apostle Islands,apis,National Lakeshore,"Bayfield, WI",54814,(715) 779-3397,APIS,2489794
+583,wisconsin,Ice Age,iatr,National Scenic Trail,"Cross Plains, WI",53528,608-798-8700,IATR,2333524
+584,wisconsin,North Country,noco,National Scenic Trail,"Lowell, MI",49331,(616) 319-7906,NOCO,341942
+585,wisconsin,Saint Croix,sacn,National Scenic Riverway,"St. Croix Falls, WI",54024,(715) 483-2274,SACN,1901048
+586,wyoming,Bighorn Canyon,bica,National Recreation Area,"Lovell, WY",82431,(307) 548-5406,BICA,836399
+587,wyoming,California,cali,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,CALI,731384
+588,wyoming,Devils Tower,deto,National Monument,"Devils Tower, WY",82714,(307) 467-5283,DETO,631232
+589,wyoming,Fort Laramie,fola,National Historic Site,"Fort Laramie, WY",82212,(307) 837-2221,FOLA,1528869
+590,wyoming,Fossil Butte,fobu,National Monument,"Kemmerer, WY",83101,(307) 877-4455,FOBU,2265987
+591,wyoming,Grand Teton,grte,National Park,"Moose, WY",83012,307-739-3399,GRTE,542497
+592,wyoming,Mormon Pioneer,mopi,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,MOPI,1266781
+593,wyoming,Oregon,oreg,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,OREG,1350556
+594,wyoming,Pony Express,poex,National Historic Trail,"Santa Fe, NM",87505,505-988-6098,POEX,819219
+595,wyoming,Yellowstone,yell,National Park,"Yellowstone National Park, WY",82190-0168,307-344-7381,YELL,2247631
