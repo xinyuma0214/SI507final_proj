@@ -5,8 +5,6 @@ Several basic programming techniques are adopted in the project, which includes 
 
 ## Data sources
 
-The program relied on:
-
 * [National Park Service Data API](https://www.nps.gov/subjects/digital/nps-data-api.htm)
 * [National Park Service Website](https://www.nps.gov/index.htm)
 * [Wildland Fire In National Parks CSV File](https://public-nps.opendata.arcgis.com/datasets/wildland-fire-locations/data?geometry=62.234%2C-13.945%2C130.437%2C73.016)
@@ -36,7 +34,7 @@ The "final_proj.py" file will initiate the program.
 ```
 $ python3 final_proj.py
 ```
-:angel: __Note: before running, please change the directory to the final project directory before you run the program__
+:angel: __Note: before running, please change the directory to the SI507final_proj directory firstly__
 
 ## Data presentation
 
