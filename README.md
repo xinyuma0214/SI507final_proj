@@ -1,6 +1,6 @@
 # Winter 2021 SI507 Final Project: Wildland Fire in U.S. National Parks
 
-This program is a SI 507 final project designed to facilitate management of safety in national sites. After implementing the interactive command line tool, the users can enter a state to obtain useful information about the national sites in that state, including site name, site category (national site, national historical site etc.), phone. Users can also obtain some charts showing the fire information of that national park. 
+This program is a SI 507 final project designed to facilitate management of safety (especially prevent fire happening) in national sites. In this program, users can enter a state to obtain useful information about the national parks in that state they are interested in, including parks name, phone, address, zipcode, fire times in past 120 years etc. Users can also get 4 charts representing the different aspects of fire information of that national park. 
 Several basic programming techniques are adopted in the project, which includes accessing data efficiently with caching via scraping and web API, using SQLite for data manipulating and using Plotly for data visualization, etc.
 
 ## Data sources
