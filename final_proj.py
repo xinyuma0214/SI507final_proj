@@ -237,6 +237,7 @@ def get_topics(site_object):
     dict
         a converted API return from MapQuest API
     '''
+    # global flag2
     cache_dict = open_cache()
 
     endpoint_url = 'https://developer.nps.gov/api/v1/parks?'
@@ -261,6 +262,8 @@ def get_topics(site_object):
     print('# website: ' + response['data'][0]['directionsUrl'])
     print('# total acres: ' + str(get_park_acre(site_object.parkCode)[0][1]))
     print('# number of fire happened in past 120 years: ' + str(get_park_acre(site_object.parkCode)[0][2]))
+    if get_park_acre(site_object.parkCode)[0][2] == 0:
+        flag2 = 1
     return response
 
 def get_park_acre(parkCode):
@@ -310,7 +313,7 @@ def get_N_plot_fire_times(parkCode):
     for i in range(len(ls_of_end)):    
         result = cursor.execute(query,(ls_of_start[i],ls_of_end[i])).fetchall()
         count_result.append(result)
-
+    # print(count_result)
     query1 = '''SELECT count(*) from fire
                 where FireDiscoveryDateTime BETWEEN ? AND ? ''' 
     total_count = []
@@ -319,18 +322,25 @@ def get_N_plot_fire_times(parkCode):
         total_count.append(result1)
 
     connection.close()
-    xvals = ['1900-1920','1920-1940','1940-1960','1960-1980','1980-2000','2000-2021']
-    yvals = []
-    yvals_avg = []
+    flag = []
     for i in count_result:
-        yvals.append(i[0][0])
-    for i in total_count:
-        yvals_avg.append(int(i[0][0]/298))
-    fig = go.Figure()
-    fig.add_trace(go.Bar(x=xvals,y=yvals,text=yvals,textposition='auto',name='park fire times',marker_color='indianred'))
-    fig.add_trace(go.Bar(x=xvals,y=yvals_avg,text=yvals_avg,textposition='auto',name='avg of all parks fire times',marker_color='lightsalmon'))
-    fig.update_layout(barmode='group',xaxis_tickangle=-45,title_text='Number of fire happened with interval of 20 years')
-    fig.show()
+        flag.append(i[0][0])
+    if len(set(flag)) == 1:
+        print("Sorry for inconvenience, we have no fire info about this park, please back to find another one!")
+        print()
+    else:
+        xvals = ['1900-1920','1920-1940','1940-1960','1960-1980','1980-2000','2000-2021']
+        yvals = []
+        yvals_avg = []
+        for i in count_result:
+            yvals.append(i[0][0])
+        for i in total_count:
+            yvals_avg.append(int(i[0][0]/298))
+        fig = go.Figure()
+        fig.add_trace(go.Bar(x=xvals,y=yvals,text=yvals,textposition='auto',name='park fire times',marker_color='indianred'))
+        fig.add_trace(go.Bar(x=xvals,y=yvals_avg,text=yvals_avg,textposition='auto',name='avg of all parks fire times',marker_color='lightsalmon'))
+        fig.update_layout(barmode='group',xaxis_tickangle=-45,title_text='Number of fire happened with interval of 20 years')
+        fig.show()
 
 def get_n_plot_fire_cause(parkCode):
     ''' Constructs and executes SQL query to retrieve conservation info from the fire table.
@@ -353,22 +363,26 @@ def get_n_plot_fire_cause(parkCode):
                 AND UnitCode={}''' .format(parkCode.upper())
     result2 = cursor.execute(query2).fetchall()
     connection.close()
-    human_count = 0
-    natural_count = 0
-    unknown_count = 0 
-    for i in result2:
-        if i[0] == 'Human':
-            human_count += 1
-        elif i[0] == 'Natural':
-            natural_count += 1
-        else:
-            unknown_count += 1
-    labels = ['Human','Natural','Unknown']
-    values = [human_count,natural_count,unknown_count]
-    pie_data = go.Pie(labels = labels, values = values)
-    basic_layout = go.Layout(title = "Percentage of fire cause")
-    fig = go.Figure(data = pie_data, layout = basic_layout)
-    fig.show()
+    if len(result2) == 0:
+        print("Sorry for inconvenience, we have no fire info about this park, please back to find another one!")
+        print()
+    else:
+        human_count = 0
+        natural_count = 0
+        unknown_count = 0 
+        for i in result2:
+            if i[0] == 'Human':
+                human_count += 1
+            elif i[0] == 'Natural':
+                natural_count += 1
+            else:
+                unknown_count += 1
+        labels = ['Human','Natural','Unknown']
+        values = [human_count,natural_count,unknown_count]
+        pie_data = go.Pie(labels = labels, values = values)
+        basic_layout = go.Layout(title = "Percentage of fire cause")
+        fig = go.Figure(data = pie_data, layout = basic_layout)
+        fig.show()
 
 def get_n_plot_size_class(parkCode):
     ''' Constructs and executes SQL query to retrieve conservation info from the fire table.
@@ -391,37 +405,41 @@ def get_n_plot_size_class(parkCode):
                 AND UnitCode={}''' .format(parkCode.upper())
     result3 = cursor.execute(query3).fetchall()
     connection.close()
-    A_count = 0
-    B_count = 0
-    C_count = 0 
-    D_count = 0 
-    E_count = 0 
-    F_count = 0 
-    G_count = 0 
-    N_count =0
-    for i in result3:
-        if i[0] == 'A':
-            A_count += 1
-        elif i[0] == 'B':
-            B_count += 1
-        elif i[0] == 'C':
-            C_count += 1
-        elif i[0] == 'D':
-            D_count += 1
-        elif i[0] == 'E':
-            E_count += 1
-        elif i[0] == 'F':
-            F_count += 1
-        elif i[0] == 'G':
-            G_count += 1
-        else:
-            N_count += 1
-    xvals = ['A','B','C','D','E','F','G','N']
-    yvals = [A_count,B_count,C_count,D_count,E_count,F_count,G_count,N_count]
-    scatter_data = go.Scatter(x=xvals,y=yvals,mode='markers',marker={'symbol':'star','size':35})
-    basic_layout=go.Layout(title="size class of fire")
-    fig = go.Figure(data=scatter_data, layout = basic_layout)
-    fig.show()
+    if len(result3) == 0:
+        print("Sorry for inconvenience, we have no fire info about this park, please back to find another one!")
+        print()
+    else:
+        A_count = 0
+        B_count = 0
+        C_count = 0 
+        D_count = 0 
+        E_count = 0 
+        F_count = 0 
+        G_count = 0 
+        N_count =0
+        for i in result3:
+            if i[0] == 'A':
+                A_count += 1
+            elif i[0] == 'B':
+                B_count += 1
+            elif i[0] == 'C':
+                C_count += 1
+            elif i[0] == 'D':
+                D_count += 1
+            elif i[0] == 'E':
+                E_count += 1
+            elif i[0] == 'F':
+                F_count += 1
+            elif i[0] == 'G':
+                G_count += 1
+            else:
+                N_count += 1
+        xvals = ['A','B','C','D','E','F','G','N']
+        yvals = [A_count,B_count,C_count,D_count,E_count,F_count,G_count,N_count]
+        scatter_data = go.Scatter(x=xvals,y=yvals,mode='markers',marker={'symbol':'star','size':35})
+        basic_layout=go.Layout(title="size class of fire")
+        fig = go.Figure(data=scatter_data, layout = basic_layout)
+        fig.show()
 def get_n_plot_final_acres(parkCode):
     connection = sqlite3.connect("wildland_fire.sqlite")
     cursor = connection.cursor()
@@ -444,24 +462,31 @@ def get_n_plot_final_acres(parkCode):
         result1 = cursor.execute(query1,(ls_of_start[i],ls_of_end[i])).fetchall()
         avg_acres.append(result1)
     connection.close()
-    xvals = ['1900-1920','1920-1940','1940-1960','1960-1980','1980-2000','2000-2021']
-    yvals = []
-    yvals_avg = []
-    count_result = np.array(count_result)
+    flag = []
     for i in count_result:
-        if i[0][0] == None:
-            i[0][0] = 0
-            yvals.append(i[0][0])
-        else:
-            yvals.append(math.ceil(i[0][0]))
-    for i in avg_acres:
-        yvals_avg.append(math.ceil(i[0][0]))
-    fig = go.Figure()
-    fig.add_trace(go.Bar(x=xvals,y=yvals,text=yvals,textposition='auto',name='park fire acres',marker_color='green'))
-    fig.add_trace(go.Bar(x=xvals,y=yvals_avg,text=yvals_avg,textposition='auto',
-                        name='Average of all parks fire acres',marker_color='blue'))
-    fig.update_layout(barmode='group',xaxis_tickangle=-45,title_text='Average of fire acres happened with interval of 20 years')
-    fig.show()
+        flag.append(i[0][0])
+    if len(set(flag)) == 1:
+        print("Sorry for inconvenience, we have no fire info about this park, please back to find another one!")
+        print()
+    else:
+        xvals = ['1900-1920','1920-1940','1940-1960','1960-1980','1980-2000','2000-2021']
+        yvals = []
+        yvals_avg = []
+        count_result = np.array(count_result)
+        for i in count_result:
+            if i[0][0] == None:
+                i[0][0] = 0
+                yvals.append(i[0][0])
+            else:
+                yvals.append(math.ceil(i[0][0]))
+        for i in avg_acres:
+            yvals_avg.append(math.ceil(i[0][0]))
+        fig = go.Figure()
+        fig.add_trace(go.Bar(x=xvals,y=yvals,text=yvals,textposition='auto',name='park fire acres',marker_color='green'))
+        fig.add_trace(go.Bar(x=xvals,y=yvals_avg,text=yvals_avg,textposition='auto',
+                            name='Average of all parks fire acres',marker_color='blue'))
+        fig.update_layout(barmode='group',xaxis_tickangle=-45,title_text='Average of fire acres happened with interval of 20 years')
+        fig.show()
 
 
 
@@ -469,7 +494,6 @@ def get_n_plot_final_acres(parkCode):
 if __name__ == "__main__":
     flag = 0
     this_url = build_state_url_dict()
-    ls_of_instance = []
     while True:
         user_input = input("Enter a state name to see the parks (e.g. Michigan, michigan) or 'exit': ")
         if user_input == 'exit':
@@ -478,6 +502,7 @@ if __name__ == "__main__":
             print("[Error] Enter proper state name")
             continue
         else:
+            ls_of_instance = []
             that_url = this_url[user_input.lower()]
             ls_of_park = get_sites_for_state(that_url)
             print("----------------------------------")
@@ -490,6 +515,7 @@ if __name__ == "__main__":
                 ls_of_instance.append(i)
 
             while True:
+                flag2 = 0
                 user_input2 = input("Choose the number for parks info or input 'exit', 'back' to turn to another park info: ")
                 if user_input2.isdigit():
                     if int(user_input2) > count-1 or int(user_input2) <= 0:
@@ -501,8 +527,9 @@ if __name__ == "__main__":
                         get_topics(site_object)
                         print()
                         while True:
-                            user_input3 = input("Please enter the fire plot you wanna look at or 'exit' or 'break'.\
+                            user_input3 = input("Please enter the fire plot you wanna look at or 'exit' or 'back'.\
                                 \n(A.Number of fire happened B.Fire cause C.Fire size class D.Fire final acres): ")
+                            
                             if user_input3 == 'A' or user_input3 == 'a':
                                 get_N_plot_fire_times(site_object.parkCode)
                             elif user_input3 == 'B' or user_input3 == 'b':
